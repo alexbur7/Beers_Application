@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Beers Application</string>
+    <string name="menu">Меню</string>
+    <string name="profile">Профиль</string>
+    <string name="bucket">Корзина</string>
+    <string name="fortress">Крепость %1$s</string>
+    <string name="beer">Пиво</string>
+    <string name="pizza">Пицца</string>
+    <string name="combo">Комбо</string>
+    <string name="desserts">Десерты</string>
+    <string name="moscow">Москва</string>
+    <string name="server_error">Ошибка с сервером</string>
+    <string name="connection_error">Проверьте соединение с интернетом</string>
+    <string name="strong_beer">Крепкое пиво</string>
+    <string name="un_support_category">Эта категория не поддерживается</string>
+</resources>
